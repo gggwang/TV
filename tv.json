@@ -2,42 +2,10 @@
   "spider": "https://agit.ai/2011820123/tv/raw/branch/master/jar/Yoursmile.jar;md5;2E59A2E94BD70ADE173785BB016A61C9",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "sites": [
-    {
-      "key": "厂长",
-      "name": "🏭┃厂长┃影视",
-      "type": 3,
-      "jar": "https://agit.ai/2011820123/tv/raw/branch/master/jar/Yoursmile.jar;md5;2E59A2E94BD70ADE173785BB016A61C9",
-      "playerType": "2",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/厂长.js",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "nangua",
-      "name": "🎃┃南瓜┃影视",
-      "type": 3,
-      "jar": "https://agit.ai/2011820123/tv/raw/branch/master/jar/Yoursmile.jar;md5;2E59A2E94BD70ADE173785BB016A61C9",
-      "playerType": "2",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/南瓜.js",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "Aid",
-      "name": "🚑┃急救┃教学",
-      "type": 3,
-      "jar": "https://agit.ai/2011820123/tv/raw/branch/master/jar/Yoursmile.jar;md5;2E59A2E94BD70ADE173785BB016A61C9",
-      "api": "csp_FirstAid",
-      "searchable": 1,
-      "quickSearch": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      },
-      "gridview": "0-0-4.1"
-    }
+    {"key":"drpy_js_乐猪TV","name":"乐猪TV[js]","type":3,"jar":"https://raw.gitmirror.com/yw88075/tvbox/main/dr/f.jar","api":"https://raw.gitmirror.com/yw88075/tvbox/main/dr/lib/drpy2.min.js","ext":"https://raw.gitmirror.com/yw88075/tvbox/main/dr/js/乐猪TV.js"},
+    {"key":"厂长","name":"🏭┃厂长影视","type":3,"jar":"https://agit.ai/2011820123/tv/raw/branch/master/jar/Yoursmile.jar;md5;2E59A2E94BD70ADE173785BB016A61C9","playerType":"2","api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","ext":"https://d.kstore.space/download/6296/js/厂长.js","searchable":0,"quickSearch":0},
+    {"key":"nangua","name":"🎃┃南瓜影视","type":3,"jar":"https://agit.ai/2011820123/tv/raw/branch/master/jar/Yoursmile.jar;md5;2E59A2E94BD70ADE173785BB016A61C9","playerType":"2","api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","ext":"https://d.kstore.space/download/6296/js/南瓜.js","searchable":1,"quickSearch":1},
+    {"key":"Aid","name":"🚑┃急救教学","type":3,"jar":"https://agit.ai/2011820123/tv/raw/branch/master/jar/Yoursmile.jar;md5;2E59A2E94BD70ADE173785BB016A61C9","api":"csp_FirstAid","searchable":0,"quickSearch":0,"style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"}
   ],
   "parses": [
     {"name": "Json聚合","type": 3,"url": "Demo"},
