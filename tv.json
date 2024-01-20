@@ -243,10 +243,6 @@
     {"name":"CL4K01","type":0,"url":"https://ys.ling00.cn/CL4K/?url=","ext":{"flag":["CL4K","qq","腾讯"]}},
     {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}
   ],
-  "lives":[
-    {"name":"live","type":0,"playerType":1,"url":"http://我不是.肥猫.live/TV/tvzb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"FMM_IPV6","type":"0","pass":true,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
-  ],
   "rules": [
     {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
     {"host":"www.ysgc.vip","rule":["getm3u8?url=http"]},
@@ -266,6 +262,9 @@
     {"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
     {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
     {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
+  ],
+  "lives":[
+    {"name":"FMM_IPV6","type":"0","pass":true,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
   ],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
   "ijk":[
