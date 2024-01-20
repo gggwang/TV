@@ -9,7 +9,9 @@
       "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/厂长.js"
+      "ext": "https://d.kstore.space/download/6296/js/厂长.js",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "nangua",
@@ -18,7 +20,9 @@
       "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
+      "ext": "https://d.kstore.space/download/6296/js/南瓜.js",
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "Aid",
@@ -26,8 +30,8 @@
       "type": 3,
       "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
       "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "style": {
         "type": "rect",
         "ratio": 3.8
