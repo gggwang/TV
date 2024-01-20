@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80dc9bd0-7e11-43a8-b48f-f45a76d0d8e7" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/道长js.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tv.json" beforeDir="false" afterPath="$PROJECT_DIR$/tv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/学习接口.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705719695714</updated>
-      <workItem from="1705719697543" duration="3785000" />
+      <workItem from="1705719697543" duration="4515000" />
     </task>
     <servers />
   </component>
