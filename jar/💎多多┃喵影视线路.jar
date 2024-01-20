@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+	<title>链接不存在</title>
+	<style type="text/css">
+        * {
+            padding: 0;
+            margin: 0;
+        }
+		body {
+            font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+            text-align: center;
+            color: #303659;
+        }
+        a {
+        	text-decoration: none;
+        	color: #3464E0;
+        }
+		@media (max-width: 640px) {
+			#pic {
+                position: absolute;
+                top: 20%;
+                left: 50%;
+                width: 320px;
+                height: 208px;
+                margin-left: -160px;
+                background-image: url("https://static.interval.im/interval/Ff7QWrFzPyRiWnnZ.png");
+                background-size: cover;
+			}
+			#intro {
+				position: absolute;
+				bottom: 6%;
+				width: 100%;
+				font-size: 12px;
+			}
+		}
+		@media (min-width: 641px) {
+			#pic {
+                position: absolute;
+                top: 32%;
+                left: 50%;
+                width: 320px;
+                height: 208px;
+                margin-left: -160px;
+                background-image: url("https://static.interval.im/interval/Ff7QWrFzPyRiWnnZ.png");
+                background-size: cover;
+			}
+			#intro {
+				position: absolute;
+				bottom: 14%;
+				width: 100%;
+				font-size: 14px;
+			}
+		}
+	</style>
+</head>
+<body>
+<div id="pic"></div>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?4e4a245948e57f67f4d3ab2d05ce288b";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</body>
+</html>
